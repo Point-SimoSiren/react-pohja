@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "http://www.sharewell.fi/react2020/oppilas20/static/css/main.78cb99d7.chunk.css",
+    "main.js": "http://www.sharewell.fi/react2020/oppilas20/static/js/main.ced4befc.chunk.js",
+    "main.js.map": "http://www.sharewell.fi/react2020/oppilas20/static/js/main.ced4befc.chunk.js.map",
+    "runtime-main.js": "http://www.sharewell.fi/react2020/oppilas20/static/js/runtime-main.3d38e6b1.js",
+    "runtime-main.js.map": "http://www.sharewell.fi/react2020/oppilas20/static/js/runtime-main.3d38e6b1.js.map",
+    "static/css/2.1b53b9c3.chunk.css": "http://www.sharewell.fi/react2020/oppilas20/static/css/2.1b53b9c3.chunk.css",
+    "static/js/2.472cfe8c.chunk.js": "http://www.sharewell.fi/react2020/oppilas20/static/js/2.472cfe8c.chunk.js",
+    "static/js/2.472cfe8c.chunk.js.map": "http://www.sharewell.fi/react2020/oppilas20/static/js/2.472cfe8c.chunk.js.map",
+    "index.html": "http://www.sharewell.fi/react2020/oppilas20/index.html",
+    "precache-manifest.409cfdd64d94b009c077844abf70a754.js": "http://www.sharewell.fi/react2020/oppilas20/precache-manifest.409cfdd64d94b009c077844abf70a754.js",
+    "service-worker.js": "http://www.sharewell.fi/react2020/oppilas20/service-worker.js",
+    "static/css/2.1b53b9c3.chunk.css.map": "http://www.sharewell.fi/react2020/oppilas20/static/css/2.1b53b9c3.chunk.css.map",
+    "static/css/main.78cb99d7.chunk.css.map": "http://www.sharewell.fi/react2020/oppilas20/static/css/main.78cb99d7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d38e6b1.js",
+    "static/css/2.1b53b9c3.chunk.css",
+    "static/js/2.472cfe8c.chunk.js",
+    "static/css/main.78cb99d7.chunk.css",
+    "static/js/main.ced4befc.chunk.js"
+  ]
+}
